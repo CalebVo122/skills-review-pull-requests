@@ -12,6 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
+Caleb is in town
 
 <!--
   <<< Author notes: Step 5 >>>
